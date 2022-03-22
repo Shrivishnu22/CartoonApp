@@ -2,5 +2,4 @@
 <h3>This app was made in the Android studio using Java to learn the spinner concept.</h3>
 <br>
 
-![cartoon](https://user-images.githubusercontent.com/62836567/159328386-8f4ef999-5cb1-4c4a-9dd7-613c381cbf63.gif)
- 
+![2022-03-21-22-03-17](https://user-images.githubusercontent.com/62836567/159408081-76f40724-29bc-421b-b1e5-c787cdb53ff2.gif) 
